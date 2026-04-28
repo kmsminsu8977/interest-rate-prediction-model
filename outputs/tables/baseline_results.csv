@@ -1,0 +1,7 @@
+date,signal_score,predicted_change_bp,predicted_direction
+2025-09,0.186512,2.238147,hold
+2025-10,0.680162,8.161944,hike_pressure
+2025-11,1.423113,17.077351,hike_pressure
+2025-12,0.409853,4.918231,hike_pressure
+2026-01,-0.717342,-8.608109,cut_pressure
+2026-02,-1.982297,-23.787563,cut_pressure
